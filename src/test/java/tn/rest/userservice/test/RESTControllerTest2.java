@@ -26,7 +26,7 @@ import tn.rest.userservice.domain.UserList;
  * 
  * 
  */
-public class RESTControllerTest {
+public class RESTControllerTest2 {
 	Logger logger = LoggerFactory.getLogger(getClass());
 	String baseUrl;
 
